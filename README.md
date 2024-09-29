@@ -1,3 +1,10 @@
+![Screenshot (56)](https://github.com/user-attachments/assets/9baf4258-579e-4077-8ef8-c445fbcfc7dd)
+![Screenshot (57)](https://github.com/user-attachments/assets/a1576d47-333e-471f-8846-e34f264707f8)
+![Screenshot (58)](https://github.com/user-attachments/assets/ba19be4c-616a-4f22-98cc-fbf2d1265c57)
+![Screenshot (59)](https://github.com/user-attachments/assets/c00e5258-ec47-47de-b3f7-4dd359d7a445)
+![Screenshot (60)](https://github.com/user-attachments/assets/2b4eb415-7055-4b54-9bb8-be9769430e91)
+![Screenshot (61)](https://github.com/user-attachments/assets/e117022e-4a52-4f24-b845-0187df41d85a)
+![Screenshot (62)](https://github.com/user-attachments/assets/3f5f82a9-b568-4254-960d-70ae4d8ef767)
 E-commerce Mobile App
 Overview
 
@@ -37,12 +44,5 @@ Mockups
 
 The mockups provide a final look at the visual design and styling of the app, including the color schemes, typography, and UI components.
 
-![Screenshot (56)](https://github.com/user-attachments/assets/9baf4258-579e-4077-8ef8-c445fbcfc7dd)
-![Screenshot (57)](https://github.com/user-attachments/assets/a1576d47-333e-471f-8846-e34f264707f8)
-![Screenshot (58)](https://github.com/user-attachments/assets/ba19be4c-616a-4f22-98cc-fbf2d1265c57)
-![Screenshot (59)](https://github.com/user-attachments/assets/c00e5258-ec47-47de-b3f7-4dd359d7a445)
-![Screenshot (60)](https://github.com/user-attachments/assets/2b4eb415-7055-4b54-9bb8-be9769430e91)
-![Screenshot (61)](https://github.com/user-attachments/assets/e117022e-4a52-4f24-b845-0187df41d85a)
-![Screenshot (62)](https://github.com/user-attachments/assets/3f5f82a9-b568-4254-960d-70ae4d8ef767)
 
 
