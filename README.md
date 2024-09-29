@@ -1,29 +1,6 @@
 E-commerce Mobile App
 Overview
 
-This project is a fully designed e-commerce mobile application created using Flutter. The app offers a smooth and intuitive shopping experience for users, allowing them to browse, search, and purchase products, as well as manage their accounts. The project includes both wireframes and mockups to illustrate the entire app flow, from initial design to final UI.
-Features
-
-    User Authentication: Login and registration functionality.
-    Product Listings: Display of products with various categories.
-    Product Details: Detailed view for individual products including images, descriptions, and prices.
-    Search Functionality: Ability to search products by name or category.
-    Shopping Cart: Add, remove, and edit products in the shopping cart.
-    Order Checkout: Payment integration and order confirmation pages.
-    User Profiles: Users can manage their profiles and view order history.
-
-Wireframes
-
-The wireframes illustrate the foundational design and layout of the app before styling. These layouts were created to visualize the basic user interface flow.
-أنت قلت:
-معمول باستخدام api and firebase
-قال ChatGPT:
-ChatGPT
-
-Here's an updated version of the README.md including the usage of APIs and Firebase:
-E-commerce Mobile App
-Overview
-
 This project is a fully designed and developed e-commerce mobile application built using Flutter. The app integrates Firebase for authentication and database management, as well as external APIs to fetch product data dynamically. The project includes both wireframes and mockups to showcase the design process, from the initial user experience to the final product.
 Features
 
